@@ -2,73 +2,105 @@
 
 # Muhammed Sezai
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=500&height=24&lines=Building+intelligent+systems;with+Python%2C+Rust+%26+Go;Software+Developer+%7C+ML+Engineer;Team+Lead+%7C+%C4%B0zmir%2C+Turkey" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=520&height=24&lines=Rust-first+systems+engineer;Building+intelligent+systems+at+scale;Rust+%C2%B7+C%23+%C2%B7+Python+%C2%B7+TypeScript+%C2%B7+Go;Software+Developer+%C2%B7+ML+Engineer+%C2%B7+Team+Lead" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammed-sezai-761711294/)
 [![GitHub](https://img.shields.io/badge/GitHub-sezaiarda-181717?style=flat&logo=github&logoColor=white)](https://github.com/sezaiarda)
-[![Profile Views](https://komarev.com/ghpvc/?username=sezaiarda&color=58A6FF&style=flat&label=Views)](https://github.com/sezaiarda)
 
 </div>
 
 ---
 
-### 🧑‍💻 About Me
+### About Me
 
 ```yaml
-Name:     Muhammed Sezai
 Role:     Software Developer
-Company:  Most Otomasyon Elektrik Elektronik San. ve Tic. LTD ŞTİ
 Location: İzmir, Turkey
 Focus:    Full Stack · ML / Deep Learning · Systems Programming · Team Leadership
 ```
 
 ---
 
-### ⚡ Languages
+### Languages
 
 <div align="center">
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=rust,python,go,typescript,javascript,cs,cpp,java&theme=dark" alt="Languages" />
-</a>
-
-</div>
-
----
-
-### 🧠 Machine Learning & Data Science
-
-<div align="center">
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" alt="ML" />
+  <img src="https://skillicons.dev/icons?i=rust,cs,py,ts,go,js,cpp,java,kotlin,swift,dart,php&theme=dark" alt="Languages" />
 </a>
 
 <br><br>
 
-`NumPy` · `Pandas` · `Polars` · `TensorBoard` · `Deep Learning` · `Machine Learning`
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
 
 </div>
 
 ---
 
-### 🌐 Frontend & Mobile
+### Machine Learning & Data Science
 
 <div align="center">
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=react,html,css&theme=dark" alt="Frontend" />
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&theme=dark" alt="ML" />
 </a>
 
 <br><br>
 
-`React.js` · `React Native`
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Polars](https://img.shields.io/badge/Polars-CD792C?style=flat&logo=polars&logoColor=white)
+![TensorBoard](https://img.shields.io/badge/TensorBoard-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 
 </div>
 
 ---
 
-### 🖥️ Desktop & Enterprise
+### Backend & APIs
+
+<div align="center">
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=fastapi,flask,django,express,nestjs&theme=dark" alt="Backend" />
+</a>
+
+</div>
+
+---
+
+### Frontend
+
+<div align="center">
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,vite,html,css&theme=dark" alt="Frontend" />
+</a>
+
+</div>
+
+---
+
+### Mobile
+
+<div align="center">
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=flutter,swift,kotlin,react&theme=dark" alt="Mobile" />
+</a>
+
+<br><br>
+
+`Flutter` · `Swift (iOS)` · `Kotlin (Android)` · `React Native`
+
+</div>
+
+---
+
+### Desktop & Enterprise
 
 <div align="center">
 
@@ -84,23 +116,47 @@ Focus:    Full Stack · ML / Deep Learning · Systems Programming · Team Leader
 
 ---
 
-### 🗄️ Databases
+### Databases
 
 <div align="center">
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql,redis&theme=dark" alt="Databases" />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis&theme=dark" alt="Databases" />
 </a>
 
 <br><br>
 
-`PostgreSQL` · `Microsoft SQL Server` · `MongoDB` · `MySQL` · `Redis`
+![Microsoft SQL Server](https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 
 </div>
 
 ---
 
-### 👥 Leadership
+### DevOps & Cloud
+
+<div align="center">
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=docker,aws,gcp,nginx,githubactions,bash&theme=dark" alt="DevOps" />
+</a>
+
+</div>
+
+---
+
+### Tools
+
+<div align="center">
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=git,linux,vscode&theme=dark" alt="Tools" />
+</a>
+
+</div>
+
+---
+
+### Leadership
 
 <div align="center">
 
@@ -110,29 +166,11 @@ Focus:    Full Stack · ML / Deep Learning · Systems Programming · Team Leader
 
 ---
 
-### 📊 Language Distribution
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sezaiarda&layout=donut&langs_count=8&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&hide=procfile" alt="Top Languages" />
-
-</div>
-
----
-
-### 📈 Activity
+### Activity
 
 <div align="center">
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sezaiarda&hide_border=true&background=0d1117&ring=58A6FF&fire=FF6D00&currStreakLabel=58A6FF&sideNums=c9d1d9&currStreakNum=c9d1d9&sideLabels=58A6FF&dates=6e7681)](https://git.io/streak-stats)
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sezaiarda&bg_color=0d1117&color=58A6FF&line=58A6FF&point=c9d1d9&area=true&area_color=58A6FF&hide_border=true" width="95%" alt="Activity Graph" />
 
 </div>
 
